@@ -13,7 +13,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Floor
   - 
   - 
   - 
@@ -41,8 +41,17 @@ TagManager:
   - name: Background
     uniqueID: 2578721593
     locked: 0
+  - name: Floor
+    uniqueID: 4186057511
+    locked: 0
+  - name: Chest
+    uniqueID: 2715004847
+    locked: 0
   - name: Player
     uniqueID: 2066366079
+    locked: 0
+  - name: MaceChain
+    uniqueID: 1016548831
     locked: 0
   - name: Default
     uniqueID: 0
