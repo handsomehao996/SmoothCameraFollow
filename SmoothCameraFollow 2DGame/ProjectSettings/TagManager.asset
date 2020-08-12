@@ -47,6 +47,9 @@ TagManager:
   - name: Chest
     uniqueID: 2715004847
     locked: 0
+  - name: Environment
+    uniqueID: 2035855563
+    locked: 0
   - name: Player
     uniqueID: 2066366079
     locked: 0
